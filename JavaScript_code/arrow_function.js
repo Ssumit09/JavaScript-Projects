@@ -36,7 +36,12 @@ const user={
 // const add=(num1,num2)=> num1+num2;
 // const add=(num1,num2)=> ( num1+num2 );  //mostly used in react
 
+
+important
 // IIFE (terms Immediately Invoked Function Expression) -> to remove the pollution of Global Scope
 
+
+// Instruction that are treated as false: falsy values
+false,0, -0, BigInt 0n ,  "" , null, undefined, NaN
  
 
